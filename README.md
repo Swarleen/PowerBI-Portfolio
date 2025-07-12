@@ -27,8 +27,10 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
 ---
 - [<ins><b>©2025 Swarleen Bhamra. All rights reserved</b></ins>]
 ---
-## [Project 1: Employee Distribution Dashboard]()
+## [Project 1: Employee Distribution Dashboard](https://github.com/Swarleen/Employee-Distrbution)
 
 Consumable Dashboard, a powerful and intuitive data visualization tool built using Power BI. This dashboard offers a comprehensive view of sales data for consumable products, allowing you to quickly and easily analyze performance and identify trends.
 ## Preview
+
+
 
