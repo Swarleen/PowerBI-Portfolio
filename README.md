@@ -35,7 +35,7 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
 ---
 - [<ins><b>©2025 Swarleen Bhamra. All rights reserved</b></ins>]
 ---
-## [Project 1: Employee Distribution Dashboard](https://github.com/Swarleen/Employee-Distrbution)
+## [Project A: Employee Distribution Dashboard](https://github.com/Swarleen/Employee-Distrbution)
 
 Consumable Dashboard, a powerful and intuitive data visualization tool built using Power BI. This dashboard is a dynamic HR analytics project that transforms over 22,000 employee records (2000–2020) into actionable insights. Leveraging PostgreSQL for robust data cleaning and Power BI for interactive visual storytelling, this dashboard uncovers critical workforce trends, from diversity and tenure to turnover and geographic distribution, helping organizations make smarter, data-driven HR decisions.
 
