@@ -41,7 +41,7 @@ Consumable Dashboard, a powerful and intuitive data visualization tool built usi
 
 ## 🚀 Live Dashboard Preview [![Open App](https://img.shields.io/badge/Open%20App-Streamlit-orange?logo=streamlit)](https://emp-demo-distt.streamlit.app/?embed_options=light_theme,show_colored_line,show_padding) [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNDFlZGE5NmQtMzIyYy00NzYxLTkwZTktNjBlNTlkMTQ2NjAyIiwidCI6ImY2YmI1MjU3LTE1ZTEtNGUxYi1iY2U0LTNjNTVmMjEyNjU3MSJ9)
 
-(ezgif.gif) 
+[![Watch the demo](ezgif.gif)]
 
 > Click the image above to open the live dashboard!
 
