@@ -37,8 +37,14 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
 ---
 ## [Project 1: Employee Distribution Dashboard](https://github.com/Swarleen/Employee-Distrbution)
 
-Consumable Dashboard, a powerful and intuitive data visualization tool built using Power BI. This dashboard offers a comprehensive view of sales data for consumable products, allowing you to quickly and easily analyze performance and identify trends.
-## Preview
+Consumable Dashboard, a powerful and intuitive data visualization tool built using Power BI. This dashboard is a dynamic HR analytics project that transforms over 22,000 employee records (2000–2020) into actionable insights. Leveraging PostgreSQL for robust data cleaning and Power BI for interactive visual storytelling, this dashboard uncovers critical workforce trends, from diversity and tenure to turnover and geographic distribution, helping organizations make smarter, data-driven HR decisions.
+
+## 🚀 Live Dashboard Preview [![Open App](https://img.shields.io/badge/Open%20App-Streamlit-orange?logo=streamlit)](https://emp-demo-distt.streamlit.app/?embed_options=light_theme,show_colored_line,show_padding)
+
+[![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNDFlZGE5NmQtMzIyYy00NzYxLTkwZTktNjBlNTlkMTQ2NjAyIiwidCI6ImY2YmI1MjU3LTE1ZTEtNGUxYi1iY2U0LTNjNTVmMjEyNjU3MSJ9)
+
+(ezgif.gif)
+> Click the image above to open the live dashboard!
 
 
 
